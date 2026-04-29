@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wkrcj\\Downloads\\C#\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\wkrcj\\Downloads\\C#\\3.Encapsulation-1\\Encapsulation-1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wkrcj\\Downloads\\C#\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\wkrcj\\Downloads\\C#\\3.Encapsulation-1\\Encapsulation-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wkrcj\\Downloads\\C#\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\wkrcj\\Downloads\\C#\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\wkrcj\\Downloads\\C#\\3.Encapsulation-1\\Encapsulation-1.csproj",
+        "projectName": "Encapsulation-1",
+        "projectPath": "C:\\Users\\wkrcj\\Downloads\\C#\\3.Encapsulation-1\\Encapsulation-1.csproj",
         "packagesPath": "C:\\Users\\wkrcj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wkrcj\\Downloads\\C#\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\wkrcj\\Downloads\\C#\\3.Encapsulation-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wkrcj\\AppData\\Roaming\\NuGet\\NuGet.Config"

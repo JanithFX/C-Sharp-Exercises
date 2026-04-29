@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wkrcj\\Downloads\\C#\\Constuctor-Overloading\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\wkrcj\\Downloads\\C#\\1.Hello-World\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\wkrcj\\Downloads\\C#\\Constuctor-Overloading\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\wkrcj\\Downloads\\C#\\1.Hello-World\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\wkrcj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wkrcj\\Downloads\\C#\\Constuctor-Overloading\\obj\\",
+      "outputPath": "C:\\Users\\wkrcj\\Downloads\\C#\\1.Hello-World\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wkrcj\\AppData\\Roaming\\NuGet\\NuGet.Config"
