@@ -6,7 +6,8 @@ public class Program
     {
        BankAccount account = new BankAccount();
 
-       account.Balance = -5000.0;
-       Console.WriteLine("Current Balance: " + account.Balance);
+       account.deposit(5000.505);
+
+       Console.WriteLine("Current Balance: " + account.getBalance());
     }
 }
