@@ -1,0 +1,15 @@
+C:\Users\wkrcj\Downloads\C#\3.Encapsulation-1\bin\Debug\net10.0\Encapsulation-1.exe
+C:\Users\wkrcj\Downloads\C#\3.Encapsulation-1\bin\Debug\net10.0\Encapsulation-1.deps.json
+C:\Users\wkrcj\Downloads\C#\3.Encapsulation-1\bin\Debug\net10.0\Encapsulation-1.runtimeconfig.json
+C:\Users\wkrcj\Downloads\C#\3.Encapsulation-1\bin\Debug\net10.0\Encapsulation-1.dll
+C:\Users\wkrcj\Downloads\C#\3.Encapsulation-1\bin\Debug\net10.0\Encapsulation-1.pdb
+C:\Users\wkrcj\Downloads\C#\3.Encapsulation-1\obj\Debug\net10.0\Encapsulation-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wkrcj\Downloads\C#\3.Encapsulation-1\obj\Debug\net10.0\Encapsulation-1.AssemblyInfoInputs.cache
+C:\Users\wkrcj\Downloads\C#\3.Encapsulation-1\obj\Debug\net10.0\Encapsulation-1.AssemblyInfo.cs
+C:\Users\wkrcj\Downloads\C#\3.Encapsulation-1\obj\Debug\net10.0\Encapsulation-1.csproj.CoreCompileInputs.cache
+C:\Users\wkrcj\Downloads\C#\3.Encapsulation-1\obj\Debug\net10.0\Encapsulation-1.sourcelink.json
+C:\Users\wkrcj\Downloads\C#\3.Encapsulation-1\obj\Debug\net10.0\Encapsulation-1.dll
+C:\Users\wkrcj\Downloads\C#\3.Encapsulation-1\obj\Debug\net10.0\refint\Encapsulation-1.dll
+C:\Users\wkrcj\Downloads\C#\3.Encapsulation-1\obj\Debug\net10.0\Encapsulation-1.pdb
+C:\Users\wkrcj\Downloads\C#\3.Encapsulation-1\obj\Debug\net10.0\Encapsulation-1.genruntimeconfig.cache
+C:\Users\wkrcj\Downloads\C#\3.Encapsulation-1\obj\Debug\net10.0\ref\Encapsulation-1.dll
